@@ -94,7 +94,7 @@ h2 { margin: 0 0 25px; display: flex; align-items: center; gap: 11px; color: #35
 .service-list { margin: 0; padding: 0 0 0 52px; color: #5d686a; list-style: circle; }
 .service-list li { margin: 11px 0; padding-left: 5px; font-size: .86rem; line-height: 1.55; }
 .open-source-section { border-bottom: 0; }
-.repo-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+.repo-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
 .repo-link { position: relative; margin-bottom: 9px; padding: 13px 36px 13px 14px; display: flex; flex-direction: column; border: 1px solid var(--line); color: #465254; }
 .repo-link:hover { border-color: #afcaca; text-decoration: none; }
 .repo-link strong { font-size: .86rem; }
